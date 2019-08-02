@@ -1,0 +1,50 @@
+[
+  {
+    "name": "VeThor",
+    "symbol": "VTHO",
+    "decimals": 18,
+    "address": "0x0000000000000000000000000000456e65726779",
+    "desc": "Represents the underlying cost of using VeChainThor",
+    "icon": "3ac553ea77911248ab4519bca020e0aa2891a6c6.png"
+  },
+  {
+    "name": "Plair",
+    "symbol": "PLA",
+    "decimals": 18,
+    "address": "0x645d2019ed39e58db76af602317d177b53ba8b9d",
+    "desc": "Plair is a decentralized gaming ecosystem disrupting the amateur gaming market",
+    "icon": "dfe7a792d85cfd1483b03228fd1d51a383a3c7b5.png"
+  },
+  {
+    "name": "Safe Haven",
+    "symbol": "SHA",
+    "decimals": 18,
+    "address": "0x9c6e62b3334294d70c8e410941f52d482557955b",
+    "desc": "Asset Management & Inheritance Solutions",
+    "icon": "d283b3d0888f9a33ce3db9e55640888db06b5dc4.png"
+  },
+  {
+    "name": "Eight Hours Token",
+    "symbol": "EHrT",
+    "decimals": 18,
+    "address": "0xdeff1d52f3fbf551b3337b9a02f719cd21da956b",
+    "desc": "Utility token for the 8Hours Platform",
+    "icon": "aa05eb7852852116d54f3ad32d856353584710e2.png"
+  },
+  {
+    "name": "Decent.bet",
+    "symbol": "DBET",
+    "decimals": 18,
+    "address": "0x510fcddc9424b1bbb328a574f45bfddb130e1f03",
+    "desc": "DECENT.bet is an open-source p2p gaming platform built on the VeChain blockchain",
+    "icon": "39cb9bcb279706b3ae09a8cc633bfca500cef5a3.png"
+  },
+  {
+    "name": "OceanEx",
+    "symbol": "OCE",
+    "decimals": 18,
+    "address": "0x9652aead889e8df7b5717ed984f147c132f85a69",
+    "desc": "OceanEx Token (OCE) is OceanEx's platform token",
+    "icon": "6fcdaf9e2663a21aecc7518f78ec6d1b2ebfd1ed.png"
+  }
+]
